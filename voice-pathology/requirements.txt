@@ -1,0 +1,11 @@
+# Install with: python -m pip install -r requirements.txt
+# FFmpeg is a separate operating-system installation (see docs/DATA_SETUP.md).
+numpy
+pandas
+matplotlib
+librosa
+scipy
+scikit-learn
+sounddevice
+joblib
+jupyterlab
